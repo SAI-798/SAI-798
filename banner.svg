@@ -1,0 +1,32 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBC2EB"/>
+      <stop offset="50%" stop-color="#A6C1EE"/>
+      <stop offset="100%" stop-color="#C2FFD8"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
+
+  <path d="M0,220 C150,260 300,180 450,210 C600,240 750,170 900,200 C1050,230 1150,190 1200,210 L1200,300 L0,300 Z"
+        fill="url(#wave2)"/>
+  <path d="M0,250 C180,210 320,270 480,240 C640,210 780,260 940,230 C1080,205 1150,240 1200,225 L1200,300 L0,300 Z"
+        fill="url(#wave1)"/>
+  <path d="M0,270 C200,300 350,250 520,275 C690,300 820,255 1000,275 C1100,285 1150,270 1200,278 L1200,300 L0,300 Z"
+        fill="#ffffff" fill-opacity="0.4"/>
+
+  <text x="600" y="140" font-family="'Segoe UI', Verdana, sans-serif" font-size="56" font-weight="700"
+        fill="#3B3B58" text-anchor="middle">Sai Lakshmi Rajulapati</text>
+
+  <text x="600" y="185" font-family="'Segoe UI', Verdana, sans-serif" font-size="22" font-weight="500"
+        fill="#4B4B6B" text-anchor="middle" letter-spacing="1">Data Analyst | Data Scientist | Data Engineer</text>
+</svg>
