@@ -15,10 +15,18 @@
 ### 👩‍💻 About Me
 
 - 🔭 **Currently building:** end-to-end data pipelines, exploratory data analysis workflows, and interactive dashboards
-- 🌱 **Currently learning:** cloud data platforms (AWS), distributed computing basics, and web scraping
+- 🌱 **Currently learning:** cloud data platforms (AWS), distributed computing basics, machine learning and web scraping
 - 💬 **Ask me about:** SQL optimization, Python data analysis (Pandas/NumPy), EDA, Power BI dashboards, and ML fundamentals
 - ⚡ **Fun fact:** the world generates over **1.145 trillion MB** of data every single day — and I love turning slices of it into stories
 - 📫 **Reach me:** sailakshmirajulapati@gmail.com
+
+ ### 🎯 Career Focus & Vision
+I am deeply driven to master every step of the data value chain:
+- 📊 **Data Analytics:** Extracting business insights, optimizing SQL queries, and building interactive Power BI dashboards.
+- 🤖 **Data Science:** Modeling complex patterns with Machine Learning and AI to build smart applications.
+- 🛠️ **Data Engineering:** Designing scalable ETL pipelines, learning AWS, and structuring robust databases.
+
+> *"Extremely motivated to bridge the gap between engineering pipelines, statistical analysis, and predictive modeling."*
 
 ---
 
