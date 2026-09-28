@@ -75,6 +75,8 @@ I am deeply driven to master every step of the data value chain:
 
 ---
 
+
+
 ### 🚀 Featured Projects
 
 <table>
@@ -132,6 +134,7 @@ I am deeply driven to master every step of the data value chain:
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
 </a>
 </p>
+
 
 <p align="center">
   <i>Turning raw data into decisions, one pipeline at a time. 🚀</i>
