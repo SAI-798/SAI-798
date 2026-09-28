@@ -13,7 +13,6 @@
 
 
 ### 👩‍💻 About Me
-
 - 🔭 **Currently building:** end-to-end data pipelines, exploratory data analysis workflows, and interactive dashboards
 - 🌱 **Currently learning:** cloud data platforms (AWS), distributed computing basics, machine learning and web scraping
 - 💬 **Ask me about:** SQL optimization, Python data analysis (Pandas/NumPy), EDA, Power BI dashboards, and ML fundamentals
@@ -22,6 +21,7 @@
 
  ### 🎯 Career Focus & Vision
 I am deeply driven to master every step of the data value chain:
+- As an aspiring Data Analyst, Data Engineer, and Data Scientist, I am deeply driven to master every step of the data value chain:
 - 📊 **Data Analytics:** Extracting business insights, optimizing SQL queries, and building interactive Power BI dashboards.
 - 🤖 **Data Science:** Modeling complex patterns with Machine Learning and AI to build smart applications.
 - 🛠️ **Data Engineering:** Designing scalable ETL pipelines, learning AWS, and structuring robust databases.
